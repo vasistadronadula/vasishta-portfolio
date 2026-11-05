@@ -11,4 +11,4 @@ Open `index.html` in a browser. The page uses local image and résumé assets fr
 GitHub Pages is deployed automatically from the `main` branch through the workflow in
 `.github/workflows/deploy-pages.yml`. Once the workflow succeeds, the site is available at:
 
-https://vasistadronadula.github.io/vasistha-portfolio/
+https://vasistadronadula.github.io/vasishta-portfolio/
